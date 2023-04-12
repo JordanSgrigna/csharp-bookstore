@@ -1,6 +1,4 @@
 ﻿//Book info
-using Microsoft.VisualBasic;
-
 string bookTitle = "Clean Code: A Handbook of Agile Software Craftsmanship";
 string bookAuthor = "Robert C. Martin";
 string bookIsbnCode = "978-0132350884";
